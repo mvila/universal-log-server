@@ -10,7 +10,7 @@ npm install --save universal-log-server
 
 ## Example
 
-```
+```javascript
 import http from 'http';
 import koa from 'koa';
 import UniversalLog from 'universal-log';
