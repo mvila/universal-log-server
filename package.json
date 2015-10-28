@@ -1,6 +1,6 @@
 {
   "name": "universal-log-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Server for UniversalLog remote output",
   "author": "Manuel Vila <mvila@3base.com>",
   "license": "MIT",
