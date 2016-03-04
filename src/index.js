@@ -28,6 +28,8 @@ export class UniversalLogServer {
       );
       this.status = 204;
       this.logLevel = 'silence';
+
+      return undefined;
     };
   }
 }
